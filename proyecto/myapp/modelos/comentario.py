@@ -9,11 +9,11 @@ class comentario:
         self.comentario = comentario
 
 
-        def obtenerListadoComentario(self):
-        print(f"este es listado para obtener comentario")
+    def obtenerListadoComentario(self):
+        print(f"")
 
     def obtenerComentarioPorId(self):
-        print(f"este es comentario por id")
+        print(f"")
 
     def crearComentario(self):
         print(f"")
